@@ -1,6 +1,3 @@
-# Proof-App
-Proof of Work for DAO members, turning wallets into work portfolios verifiable onchain
-
 # 🅿️ Proof: Your on-chain work identity
 
 ***Turn your wallet into your web3 contribution portfolio***\
